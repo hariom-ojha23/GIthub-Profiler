@@ -9,9 +9,9 @@
 * On left side the repositories of the user will show with pagination. At a time only 6 repositories will get shown.
 * Each repository will have its name, description, repository link and languages used for that repository.
 
-** Steps to test in local system **
+**Steps to test in local system**
 
-* note - since the backend is deployed to heroku you can skip step 2 to 4 because frontend has heroku url.
+**note - since the backend is deployed to heroku you can skip step 2 to 4 because frontend has heroku url.**
 
 * clone this repo in your local system.
 * move to backend folder and run command "npm install" to download the node_modules.
